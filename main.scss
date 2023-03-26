@@ -1,0 +1,346 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+// body{
+//     background: aqua;
+// }
+.head{
+    margin-top: 66px;
+}
+.head > a{
+    margin-left: 40px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #222222;
+}
+.container{
+    width: 1440px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+.head-imgs{
+    margin-left: 692px;
+}
+.head-imgs:nth-child(2){
+    margin-top: -45px;
+}
+.head-imgs > a{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    color: #FFFFFF;
+    background: #09A66D;
+    border-radius: 8px;
+    padding: 10px 23px;
+    margin-left: 32px;
+}
+.sec > h1{
+    font-family: 'Rosario';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 90px;
+    text-align: center;
+    color: #222222;
+    margin-top: 135px;
+}
+.sec > p{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: #555555;
+    margin-top: 20px;
+}
+.sec > img{
+    margin-top: 65px;
+    margin-left: 632px;
+}
+
+.main{
+    margin-top: -450px;
+    margin-bottom: 50px;
+}
+.sec1 > h1 {
+    font-family: 'Rosario';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 90px;
+    color: #222222;
+    margin-top: 173px;
+    margin-left: 100px;
+}
+.sec1 > p{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #555555;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.main2 > h1{
+    margin-top: 56px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #222222;
+    margin-left: 263px;
+}
+.main2 > p{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 8px;
+    color: #555555;
+    margin-left: 263px;
+}
+.main3 > h1{
+    margin-top: 102px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #222222;
+    margin-left: 263px;
+}
+.main3 > p{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #555555;
+    margin-left: 263px;
+    margin-top: 8px;
+} 
+.main4 > h1{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #222222;
+    margin-top: 61px;
+    margin-left: 263px;
+}
+.main4 > p{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #555555;
+    margin-left: 263px;
+    margin-top: 8px;
+}
+.man{
+    margin-left: 830px;
+    margin-top: -450px;
+}
+.man1{
+    margin-left: 878px;
+    margin-top: -380px;
+}
+.man2{
+    margin-left: 854px;
+    margin-top: -450px;
+}
+.man3{
+    margin-left: 950px;
+    margin-top: -480px;
+}
+.main11 > img{
+    margin-left: 100px;
+    margin-top: 317px;
+}
+.main11 > h1{
+    font-family: 'Rosario';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 90px;
+    color: #222222;
+    margin-left: 750px;
+    margin-top: -600px;
+}
+.main11 > p{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #555555;
+    margin-left: 750px;
+    margin-top: 20px;
+}
+.man4{
+    margin-left: 750px;
+}
+.main22 > h1{
+    margin-top: 239px;
+    font-family: 'Rosario';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 90px;
+    color: #222222;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+.main22 > p{
+    margin-left: 100px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #555555;
+}
+.main22 > h3 {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    color: #222222;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+.main22  > img{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.mann{
+    margin-left: 866px;
+    margin-top: -500px;
+}
+.main33{
+    margin-left: 840px;
+}
+.phone1{
+    margin-left: 199px;
+    margin-top: 215px;
+}
+.phone2{
+    margin-left: 225px;
+    margin-top: -480px;
+}
+.h1 > h1{
+    font-family: 'Rosario';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 90px;
+    margin-left: 577px;
+    color: #222222;
+    margin-top: -400px;
+}
+.h1 > p{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    margin-left: 577px;
+    margin-top: 20px;
+    color: #555555;
+    margin-bottom: 50px;
+}
+.appstore{
+    margin-left: 577px;
+    margin-bottom: 280px;
+}
+.bottom > img{
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+.bottom > p{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+margin-left: 100px;
+color: #555555;
+margin-bottom: 118px;
+}
+.div > h1{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+    margin-bottom: 40px;
+    color: #222222;
+    margin-left: 157px;
+}
+.div{
+    margin-top: -340px;
+    margin-left: 450px;
+}
+.div > p{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #555555;
+    margin-left: 157px;
+}
+.nav > h1{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+    color: #222222;
+    margin-bottom: 40px;
+}
+.nav{
+    margin-left: 865px;
+    margin-top: -220px;
+}
+.contact > h1{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+    color: #222222;
+    margin-left: 1126px;
+    margin-bottom: 40px;
+}
+.contact > p{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    margin-bottom: 27px;
+    color: #222222;
+    margin-left: 1126px;
+}
+.contact > img{
+    margin-left: 1126px;
+    margin-bottom: 188px;
+}
+.contact{
+    margin-top: -210px;
+}
